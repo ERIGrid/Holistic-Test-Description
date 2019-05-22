@@ -6,10 +6,10 @@ For _introductory use_, read the guidelines. You find concept definitions, expla
 
 For _regular use_, refer to the templates:
  * Test Case "canvas" -- for initial drafting of test cases; e.g. print out as A3 format and fill out during face-to-face meetings 
- * Test Description Templates -- typical use: one document per test cases, then test specifications and experiment specification templates
+ * Test Description Templates -- typical use: one document per test cases, then test specifications and experiment specification tables can be repeated multiple times.
 
 ## License
-The documents in this project are licensed under the Creative Commons Attribution 4.0 International license. Depending on usage, different forms of attribution are suitable. For scientific publications, both [1] and [2] (see section "References" below).  Any source code within documents, source code and document sources (in case of Latex) are licensed under the MIT license.
+The documents in this project are licensed under the Creative Commons Attribution 4.0 International license. Depending on usage, different forms of attribution are suitable. For scientific publications, we suggest to cite [1] for scientific background; for purely technical work, refer to the Zenodo release (doi) of this material [2] (see section "References" below).  Any source code within documents, source code and document sources (in case of Latex) are licensed under the MIT license.
 
 ## References
 Documents recommended for attribution:
