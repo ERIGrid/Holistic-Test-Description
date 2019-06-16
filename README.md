@@ -14,9 +14,9 @@ The documents in this project are licensed under the Creative Commons Attributio
 ## References
 Documents recommended for attribution:
 
-[1] ERIGrid Holistic Test Description for Validating Cyber-physical Energy Systems, Kai Heussen, Cornelius Steinbrink, Ibrahim F. Abdulhadi, Hao Guo,Van Hoa Nguyen, Merkebu Z. Degefa, Julia Merino, Tue V. Jensen, Oliver Gehrke,Daniel Esteban Morales Bondy, Davood Babazadeh, Filip Pröstl Andrén, Thomas I. Strasser *to be updated*
+[1]: ERIGrid Holistic Test Description for Validating Cyber-physical Energy Systems, Kai Heussen, Cornelius Steinbrink, Ibrahim F. Abdulhadi, Hao Guo,Van Hoa Nguyen, Merkebu Z. Degefa, Julia Merino, Tue V. Jensen, Oliver Gehrke,Daniel Esteban Morales Bondy, Davood Babazadeh, Filip Pröstl Andrén, Thomas I. Strasser *to be updated*
 
-[2] (doi) *zenodo ref*
+[2]: (doi) *zenodo ref*
 
 Further reading
 
