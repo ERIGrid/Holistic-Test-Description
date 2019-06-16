@@ -2,7 +2,7 @@
 Templates and guidelines relating to the ERIGrid Holistic Test Description. 
 
 ## Recommended use
-For _introductory use_, read the guidelines. You find concept definitions, explanations of the template fields, step-by-step instructions and a few examples.
+For _introductory use_, read the guidelines. You find concept definitions, explanations of the template fields, step-by-step instructions and a few examples. Better even, read the paper [1].
 
 For _regular use_, refer to the templates:
  * Test Case "canvas" -- for initial drafting of test cases; e.g. print out as A3 format and fill out during face-to-face meetings 
