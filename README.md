@@ -21,11 +21,15 @@ Any source code within documents, source code and document sources (in case of L
 *Documents recommended for attribution:*
 
 [1]: Kai Heussen, Cornelius Steinbrink, Ibrahim F. Abdulhadi, Hao Guo,Van Hoa Nguyen, Merkebu Z. Degefa, Julia Merino, Tue V. Jensen, Oliver Gehrke, Daniel Esteban Morales Bondy, Davood Babazadeh, Filip Pröstl Andrén, Thomas I. Strasser, "ERIGrid Holistic Test Description for Validating Cyber-physical Energy Systems," Energies, 2019. (*submitted*)
+
 [2]: ERIGrid Consortium, "ERIGrid/Holistic-Test-Description: v0.5". Zenodo, 25-Jun-2019. (https://doi.org/10.5281/zenodo.3256156)
 
 *Documents for further reading:*
 
 [3] "D-NA5.1 Smart Grid configuration validation scenario description method", Deliverable, ERIGrid Consortium, 2017. (https://erigrid.eu/wp-content/uploads/2017/07/DL_D-NA5.1_ERIGrid_Smart_Grid_configuration_validation_description_method_2017-05-01.pdf)
+
 [4] "D-NA5.2 Partner profiles", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2018/05/DL_D-NA5.2_Partner_profiles_2018-05-04.pdf)
+
 [7] "D-JRA2.2 Smart Grid ICT assessment method", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.2_Smart_Grid_ICT_assessment_method_2018-12-23.pdf)
+
 [8] "D-JRA2.3 Smart Grid simulation environment", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.3_Smart_Grid_simulation_environment_2018-12-23.pdf)
