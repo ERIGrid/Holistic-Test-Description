@@ -1,5 +1,5 @@
-# Holistic-Test-Description
-Templates and guidelines relating to the ERIGrid Holistic Test Description. 
+# Holistic Test Description (HTD)
+Templates and guidelines relating to the ERIGrid Holistic Test Description (HTD). 
 
 ## Recommended use
 For _introductory use_, read the guidelines. You find concept definitions, explanations of the template fields, step-by-step instructions and a few examples. Better even, read the paper [1].
