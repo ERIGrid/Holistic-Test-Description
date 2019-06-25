@@ -30,6 +30,6 @@ Any source code within documents, source code and document sources (in case of L
 
 [4] "D-NA5.2 Partner profiles", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2018/05/DL_D-NA5.2_Partner_profiles_2018-05-04.pdf)
 
-[7] "D-JRA2.2 Smart Grid ICT assessment method", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.2_Smart_Grid_ICT_assessment_method_2018-12-23.pdf)
+[5] "D-JRA2.2 Smart Grid ICT assessment method", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.2_Smart_Grid_ICT_assessment_method_2018-12-23.pdf)
 
-[8] "D-JRA2.3 Smart Grid simulation environment", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.3_Smart_Grid_simulation_environment_2018-12-23.pdf)
+[6] "D-JRA2.3 Smart Grid simulation environment", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.3_Smart_Grid_simulation_environment_2018-12-23.pdf)
