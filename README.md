@@ -26,10 +26,12 @@ Any source code within documents, source code and document sources (in case of L
 
 *Documents for further reading:*
 
-[3] "D-NA5.1 Smart Grid configuration validation scenario description method", Deliverable, ERIGrid Consortium, 2017. (https://erigrid.eu/wp-content/uploads/2017/07/DL_D-NA5.1_ERIGrid_Smart_Grid_configuration_validation_description_method_2017-05-01.pdf)
+[3] Antonello Monti, Ferdinanda Ponci, Marco Cupelli, and Thomas Strasser, "Tutorial "Methods and Tools for Validating Cyber-Physical Energy Systems", 21-Oct-2018. (https://doi.org/10.5281/zenodo.1467916)
 
-[4] "D-NA5.2 Partner profiles", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2018/05/DL_D-NA5.2_Partner_profiles_2018-05-04.pdf)
+[4] "D-NA5.1 Smart Grid configuration validation scenario description method", Deliverable, ERIGrid Consortium, 2017. (https://erigrid.eu/wp-content/uploads/2017/07/DL_D-NA5.1_ERIGrid_Smart_Grid_configuration_validation_description_method_2017-05-01.pdf)
 
-[5] "D-JRA2.2 Smart Grid ICT assessment method", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.2_Smart_Grid_ICT_assessment_method_2018-12-23.pdf)
+[5] "D-NA5.2 Partner profiles", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2018/05/DL_D-NA5.2_Partner_profiles_2018-05-04.pdf)
 
-[6] "D-JRA2.3 Smart Grid simulation environment", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.3_Smart_Grid_simulation_environment_2018-12-23.pdf)
+[6] "D-JRA2.2 Smart Grid ICT assessment method", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.2_Smart_Grid_ICT_assessment_method_2018-12-23.pdf)
+
+[7] "D-JRA2.3 Smart Grid simulation environment", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.3_Smart_Grid_simulation_environment_2018-12-23.pdf)
