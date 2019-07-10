@@ -9,6 +9,8 @@ For _introductory use_, read the guidelines. You find concept definitions, expla
 For _regular use_, refer to the templates:
  * Test Case "canvas" -- for initial drafting of test cases; e.g. print out as A3 format and fill out during face-to-face meetings 
  * Test Description Templates -- typical use: one document per test cases, then test specifications and experiment specification tables can be repeated multiple times.
+ 
+In order to get more insights about the proposed approach please have a look into the _examples_ which are provided in the Examples subfolder. Additional _examples_ are provided also in the linked *Documents for further reading* below. 
 
 ## License
 _Documents_: [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
