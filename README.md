@@ -22,7 +22,7 @@ Any source code within documents, source code and document sources (in case of L
 ## References
 *Documents recommended for attribution:*
 
-[1] Kai Heussen, Cornelius Steinbrink, Ibrahim F. Abdulhadi, Hao Guo,Van Hoa Nguyen, Merkebu Z. Degefa, Julia Merino, Tue V. Jensen, Oliver Gehrke, Daniel Esteban Morales Bondy, Davood Babazadeh, Filip Pröstl Andrén, Thomas I. Strasser, "ERIGrid Holistic Test Description for Validating Cyber-Physical Energy Systems," Energies, 2019. (*accepted*)
+[1] Kai Heussen, Cornelius Steinbrink, Ibrahim F. Abdulhadi, Hao Guo,Van Hoa Nguyen, Merkebu Z. Degefa, Julia Merino, Tue V. Jensen, Oliver Gehrke, Daniel Esteban Morales Bondy, Davood Babazadeh, Filip Pröstl Andrén, Thomas I. Strasser, "ERIGrid Holistic Test Description for Validating Cyber-Physical Energy Systems," Energies, 2019. (https://doi.org/10.3390/en12142722)
 
 [2] ERIGrid Consortium, "ERIGrid/Holistic-Test-Description: v0.5". Zenodo, 25-Jun-2019. (https://doi.org/10.5281/zenodo.3256157)
 
