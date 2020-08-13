@@ -24,7 +24,9 @@ Any source code within documents, source code and document sources (in case of L
 
 [1] Kai Heussen, Cornelius Steinbrink, Ibrahim F. Abdulhadi, Hao Guo,Van Hoa Nguyen, Merkebu Z. Degefa, Julia Merino, Tue V. Jensen, Oliver Gehrke, Daniel Esteban Morales Bondy, Davood Babazadeh, Filip Pröstl Andrén, Thomas I. Strasser, "ERIGrid Holistic Test Description for Validating Cyber-Physical Energy Systems," Energies, 2019. (https://doi.org/10.3390/en12142722)
 
-[2] ERIGrid Consortium, "ERIGrid/Holistic-Test-Description: v0.5". Zenodo, 25-Jun-2019. (https://doi.org/10.5281/zenodo.3256157)
+[2] Kai Heussen, Davood Babazadeh, Merkebu Z. Degefa, Henning Taxt, Julia. Merino, Van Hoa Nguyen, Pajam Teimourzadeh Baboli, Ata Moghim Khavari, Evangelos. Rikos, Luigi Pellegrino, Quoc Tuan Tran, Tue Vissing Jensen, Panos Kotsampopoulos, Thomas I. Strasser, "Test Procedure and Description for System Testing," European Guide to Power System Testing, Springer, Cham, 2020. (https://doi.org/10.1007/978-3-030-42274-5_2)
+
+[3] ERIGrid Consortium, "ERIGrid/Holistic-Test-Description: v0.5". Zenodo, 25-Jun-2019. (https://doi.org/10.5281/zenodo.3256157)
 
 *Documents for further reading:*
 
