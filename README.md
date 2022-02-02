@@ -47,5 +47,4 @@ Any source code within documents, source code and document sources (in case of L
 
 ### Funding acknowledment
 
-<img alt="European Flag" src="https://erigrid2.eu/wp-content/uploads/2020/03/europa_flag_low.jpg" align="left" style="margin-right: 10px"/> The development of [Holistic Test Description](https://github.com/ERIGrid2/holistic-test-description) has been supported by the [ERIGrid](https://erigrid.eu) project \
-of the H2020 Programme under [Grant Agreement No. 654113](https://cordis.europa.eu/project/id/654113)
+<img alt="European Flag" src="https://erigrid2.eu/wp-content/uploads/2020/03/europa_flag_low.jpg" align="left" style="margin-right: 10px"/> The development of [Holistic Test Description](https://github.com/ERIGrid2/holistic-test-description) has been supported by the [ERIGrid](https://erigrid.eu) project of the H2020 Programme under [Grant Agreement No. 654113](https://cordis.europa.eu/project/id/654113)
