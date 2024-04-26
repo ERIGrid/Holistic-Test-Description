@@ -42,4 +42,4 @@ Any source code within documents, source code and document sources (in case of L
 
 [9] "D-JRA2.3 Smart Grid simulation environment", Deliverable, ERIGrid Consoritum, 2018. (https://erigrid.eu/wp-content/uploads/2019/01/DL_D-JRA2.3_Smart_Grid_simulation_environment_2018-12-23.pdf)
 
-[10] "Smart Integration of Energy Storages in Local Multi Energy Systems for maximising the Share of Renewables in Europe’s Energy Mix", Deliverable, SmiLES Consortium, 2016. (https://bit.ly/3ajio0H)
+[10] "Description of optimization strategies - An overview of the PreCISE approach used for the definition of simulation and optimization workflows", Deliverable D4.3, SmiLES Consortium, 2019. (https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5cd070ea9&appId=PPGMS)
